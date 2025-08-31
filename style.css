@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.title{
+    position:absolute;
+    left: 200px;
+}
+.box{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(235, 176, 28);
+    opacity: 0.5px;
+    border-radius: 5px;
+    border: 2px black solid;
+    position: absolute;
+    left: 350px;
+    padding: 2px;
+    top:50px;
+}
+.add{
+    background-color: rgb(26, 165, 26);
+    border-radius: 5px;
+    color: white;
+}
+.inputtask{
+    border-radius: 5px;
+}
+.delete{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
