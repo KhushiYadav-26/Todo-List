@@ -18,13 +18,3 @@ ul.addEventListener("click",function(event){
     }
     
 });
-/*let delBtns=document.querySelectorAll(".delete");
-for(delBtn of delBtns){
-    delBtn.addEventListener("click",function(){
-        let par=this.parentElement;
-        console.log(par);
-        par.remove();
-    })
-}
-*/
-//ye use isliye nahi kiya kyuki newly added task mein delete nahi kaam kar raha.
